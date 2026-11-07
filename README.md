@@ -4,7 +4,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 **[Submit your app](https://macbrowse.com/submit?ref=github)** · [Browse all apps](https://macbrowse.com/browse?ref=github) · [Weekly newsletter](https://macbrowse.com/newsletter?ref=github)
 
-63 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
+69 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
 
 **Categories:** [Developer Tools](#developer-tools) · [Games](#games) · [Graphics & Design](#graphics--design) · [Health & Fitness](#health--fitness) · [Lifestyle](#lifestyle) · [Music](#music) · [News](#news) · [Photo & Video](#photo--video) · [Productivity](#productivity) · [Utilities](#utilities)
 
@@ -12,6 +12,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 | App | What it does | Price |
 | --- | --- | --- |
+| [NewsNinja - RSS & News Reader](https://macbrowse.com/news/newsninja-rss-news-reader?ref=github) | NewsNinja is a privacy-focused news reader for Apple platforms. | Freemium |
 | [Rollcage](https://macbrowse.com/developer-tools/rollcage?ref=github) | A menu-bar seatbelt for AI coding agents: snapshots, undo and guardrails | Paid |
 
 ## Developer Tools
@@ -65,6 +66,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 | App | What it does | Price |
 | --- | --- | --- |
+| [Sonari](https://macbrowse.com/music/sonari?ref=github) | Play a Mac instrument with hand gestures, visuals and MIDI for compatible DAWs. | Paid |
 | [Song Peak](https://macbrowse.com/music/song-peak?ref=github) | One sentence becomes a sung song. | Free |
 | [Unboom](https://macbrowse.com/music/unboom?ref=github) | Your room is boomy. Fix it on your Mac. | Freemium |
 
@@ -101,7 +103,9 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Cozy](https://macbrowse.com/productivity/cozy?ref=github) | Cozy is a journal and diary app that keeps your entries on your own device, as your own fi | Paid |
 | [Cuewake](https://macbrowse.com/productivity/cuewake?ref=github) | Leave it here. Find it when you’re back. | Paid |
 | [Dictiq](https://macbrowse.com/productivity/dictiq?ref=github) | Dictation that keeps your words on your machine. | Freemium |
+| [DroidDock](https://macbrowse.com/productivity/droiddock?ref=github) | Make your Android phone feel native on your Mac — clipboard, notifications, files, message | Free |
 | [EdgeBar](https://macbrowse.com/productivity/edgebar?ref=github) | EdgeBar turns your MacBook trackpad edges into smooth volume and brightness controls. | Paid |
+| [Finderlock](https://macbrowse.com/productivity/finderlock?ref=github) | Protect files and folders on macOS with Touch ID and AES-256. | Paid |
 | [Flickbar](https://macbrowse.com/productivity/flickbar?ref=github) | Snap, resize and move macOS windows with trackpad gestures on their title bars. | Free |
 | [Hatoba](https://macbrowse.com/productivity/hatoba?ref=github) | Hatoba is a second dock for your Mac: apps, links and live widgets on any screen edge or i | Paid |
 | [Kirocast](https://macbrowse.com/productivity/kirocast?ref=github) | The screen recorder and editor built for AI. | Paid |
@@ -117,6 +121,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Prodoozie](https://macbrowse.com/productivity/prodoozie?ref=github) | A video production assistant | Paid |
 | [Rabbit Link](https://macbrowse.com/productivity/rabbit-link?ref=github) | Rabbit brings your Android phone to your Mac, so it can stay in your pocket. | Paid |
 | [RewriteBar](https://macbrowse.com/productivity/rewritebar?ref=github) | RewriteBar is the leading macOS AI writing assistant. | Paid |
+| [Ribbon](https://macbrowse.com/productivity/ribbon?ref=github) | A scrolling window manager for Mac. | Paid |
 | [Ruban](https://macbrowse.com/productivity/ruban?ref=github) | Your Mac, on a strip. | Paid |
 | [Savvyshot](https://macbrowse.com/productivity/savvyshot?ref=github) | Say goodbye to boring screenshots! | Freemium |
 | [Scrawl](https://macbrowse.com/productivity/scrawl?ref=github) | Handwrite on your Mac's trackpad. No tablet, no stylus. | Free |
@@ -129,6 +134,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Thumbwise](https://macbrowse.com/productivity/thumbwise?ref=github) | Organizing apps on your iPhone sucks. Do it from your Mac instead. | Freemium |
 | [Tidzy](https://macbrowse.com/productivity/tidzy?ref=github) | A smarter Finder for your Mac: find anything by what's inside it, copy text from any image | Paid |
 | [Toolnotch](https://macbrowse.com/productivity/toolnotch?ref=github) | Your Mac's notch, but useful. | Paid |
+| [TuningMac](https://macbrowse.com/productivity/tuningmac?ref=github) | A system-wide equalizer and per-app volume mixer for Mac, in your menu bar. | Paid |
 | [VeloUtils](https://macbrowse.com/productivity/veloutils?ref=github) | Markdown, JSON, CSV, Mermaid, Timestamp, Encode / Decode and JWT in one native window. | Free |
 | [Vocena](https://macbrowse.com/productivity/vocena?ref=github) | Live captions and translation for any sound on your Mac | Freemium |
 | [Wavo](https://macbrowse.com/productivity/wavo?ref=github) | Local dictation: hold a hotkey, speak, and the text lands where you type | Free |
@@ -143,6 +149,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | App | What it does | Price |
 | --- | --- | --- |
 | [Keep Mac Awake](https://macbrowse.com/utilities/keep-mac-awake?ref=github) | Keeps your MacBook awake with the lid closed, so agents and long jobs keep going | Paid |
+| [NoteRescue 2](https://macbrowse.com/utilities/noterescue-2?ref=github) | Find what is missing from Notes, Contacts, Safari and more | Freemium |
 | [WormaSounds](https://macbrowse.com/utilities/wormasounds?ref=github) | Per-app volume, output routing and EQ for Mac, from the menu bar. No audio driver | Paid |
 
 [All Utilities apps →](https://macbrowse.com/utilities?ref=github)
