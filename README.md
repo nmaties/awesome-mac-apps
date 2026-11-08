@@ -4,7 +4,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 **[Submit your app](https://macbrowse.com/submit?ref=github)** · [Browse all apps](https://macbrowse.com/browse?ref=github) · [Weekly newsletter](https://macbrowse.com/newsletter?ref=github)
 
-69 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
+72 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
 
 **Categories:** [Developer Tools](#developer-tools) · [Games](#games) · [Graphics & Design](#graphics--design) · [Health & Fitness](#health--fitness) · [Lifestyle](#lifestyle) · [Music](#music) · [News](#news) · [Photo & Video](#photo--video) · [Productivity](#productivity) · [Utilities](#utilities)
 
@@ -148,8 +148,11 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 | App | What it does | Price |
 | --- | --- | --- |
+| [Eclipse Temurin Java Development Kit](https://macbrowse.com/utilities/eclipse-temurin-java-development-kit?ref=github) | Free OpenJDK build for Mac to run and develop Java applications | Free |
+| [Karabiner Elements](https://macbrowse.com/utilities/karabiner-elements?ref=github) | Free keyboard customizer for macOS that remaps keys the way you want | Free |
 | [Keep Mac Awake](https://macbrowse.com/utilities/keep-mac-awake?ref=github) | Keeps your MacBook awake with the lid closed, so agents and long jobs keep going | Paid |
 | [NoteRescue 2](https://macbrowse.com/utilities/noterescue-2?ref=github) | Find what is missing from Notes, Contacts, Safari and more | Freemium |
+| [UTM](https://macbrowse.com/utilities/utm?ref=github) | Free virtual machine app for Mac that runs other operating systems | Free |
 | [WormaSounds](https://macbrowse.com/utilities/wormasounds?ref=github) | Per-app volume, output routing and EQ for Mac, from the menu bar. No audio driver | Paid |
 
 [All Utilities apps →](https://macbrowse.com/utilities?ref=github)
