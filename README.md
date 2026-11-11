@@ -4,7 +4,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 **[Submit your app](https://macbrowse.com/submit?ref=github)** · [Browse all apps](https://macbrowse.com/browse?ref=github) · [Weekly newsletter](https://macbrowse.com/newsletter?ref=github)
 
-381 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
+387 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
 
 **Categories:** [Business](#business) · [Developer Tools](#developer-tools) · [Education](#education) · [Entertainment](#entertainment) · [Finance](#finance) · [Games](#games) · [Graphics & Design](#graphics--design) · [Health & Fitness](#health--fitness) · [Lifestyle](#lifestyle) · [Medical](#medical) · [Music](#music) · [News](#news) · [Photo & Video](#photo--video) · [Productivity](#productivity) · [Reference](#reference) · [Social Networking](#social-networking) · [Utilities](#utilities)
 
@@ -51,6 +51,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Gitfox](https://macbrowse.com/developer-tools/gitfox?ref=github) | Native Git client for Mac with clear diffs, line staging and rebase | Free |
 | [Glance - Quick Look Code Files](https://macbrowse.com/developer-tools/glance-quick-look-code-files?ref=github) | Quick Look plugin for Mac that previews code, Markdown and Jupyter files | Free |
 | [Grip: gRPC client](https://macbrowse.com/developer-tools/grip-grpc-client?ref=github) | A free gRPC client for Mac to call and test your services visually | Free |
+| [HappyKeywords](https://macbrowse.com/developer-tools/happykeywords?ref=github) | App Store keywords in 50+ countries, with your own AI | Paid |
 | [Headroom](https://macbrowse.com/developer-tools/headroom?ref=github) | Cut Claude Code & ChatGPT Codex token costs ~50% | Subscription |
 | [Hopper Disassembler](https://macbrowse.com/developer-tools/hopper-disassembler?ref=github) | Reverse engineering tool for Mac to disassemble, decompile and debug apps | Free |
 | [IO Ninja](https://macbrowse.com/developer-tools/io-ninja?ref=github) | Terminal emulator, packet sniffer and protocol analyzer for Mac | Free |
@@ -69,6 +70,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [pullBar: PR Counter for GitHub](https://macbrowse.com/developer-tools/pullbar-pr-counter-for-github?ref=github) | GitHub pull request counter in your Mac menu bar, with review alerts | Free |
 | [Rest Hippo](https://macbrowse.com/developer-tools/rest-hippo?ref=github) | Free, open-source API client for Mac with REST, GraphQL and WebSocket | Free |
 | [Rollcage](https://macbrowse.com/developer-tools/rollcage?ref=github) | A menu-bar seatbelt for AI coding agents: snapshots, undo and guardrails | Paid |
+| [Sextant](https://macbrowse.com/developer-tools/sextant?ref=github) | Know which App Store searches your app can win | Subscription |
 | [SnippetsLab](https://macbrowse.com/developer-tools/snippetslab?ref=github) | Code snippet manager for Mac with Markdown notes and iCloud sync | Free |
 | [SpaceWise](https://macbrowse.com/developer-tools/spacewise?ref=github) | SpaceWise safely cleans developer disk clutter: node\_modules, Docker caches, Xcode Derived | Freemium |
 | [SubEthaEdit](https://macbrowse.com/developer-tools/subethaedit?ref=github) | Free collaborative text and code editor for Mac, open source and native | Free |
@@ -339,6 +341,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Bloop.email](https://macbrowse.com/productivity/bloop-email?ref=github) | A fast, native Mac mail app for Gmail, Outlook, iCloud, Yahoo and any IMAP account. | Paid |
 | [Bulk email software for macOS and MS Windows](https://macbrowse.com/productivity/bulk-email-software-for-macos-and-ms-windows?ref=github) | Bulk email software for Mac OS and MS Windows that allows you to send out customized press | Paid |
 | [Captions Bro](https://macbrowse.com/productivity/captions-bro?ref=github) | Free video editor for iPhone, iPad and Mac: on-device auto subtitles, animated karaoke cap | Paid |
+| [Cover](https://macbrowse.com/productivity/cover?ref=github) | Hide your identity from Ai in documents. | Subscription |
 | [Cozy](https://macbrowse.com/productivity/cozy?ref=github) | Cozy is a journal and diary app that keeps your entries on your own device, as your own fi | Paid |
 | [CueNotch - Notch Teleprompter](https://macbrowse.com/productivity/cuenotch-notch-teleprompter?ref=github) | Teleprompter for Mac that puts your script in the MacBook notch | Free |
 | [Cuewake](https://macbrowse.com/productivity/cuewake?ref=github) | Leave it here. Find it when you’re back. | Paid |
@@ -366,6 +369,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Notch Focus Timer](https://macbrowse.com/productivity/notch-focus-timer?ref=github) | Focus timer for Mac that wraps its progress around the MacBook notch | Free |
 | [NotchBuddy: Notch Pet & Tools](https://macbrowse.com/productivity/notchbuddy-notch-pet-tools?ref=github) | A notch pet plus focus timer, music controls and sales alerts for MacBook | Free |
 | [Note Way](https://macbrowse.com/productivity/note-way?ref=github) | Say it into your Mac's notch. It sorts your day. | Subscription |
+| [Novastart](https://macbrowse.com/productivity/novastart?ref=github) | Apps, files, people and AI agents together on an infinite canvas. | Freemium |
 | [ObviousIdea Light Capture](https://macbrowse.com/productivity/obviousidea-light-capture?ref=github) | Screenshot tool for Mac that builds a searchable, private image library | Free |
 | [Ollamac Pro](https://macbrowse.com/productivity/ollamac-pro?ref=github) | Native Ollama chat for your Mac | Paid |
 | [OmuType for Mac](https://macbrowse.com/productivity/omutype-for-mac?ref=github) | Cangjie & Cantonese voice typing for Mac, English mixed in | Freemium |
@@ -478,9 +482,11 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Network Radar](https://macbrowse.com/utilities/network-radar?ref=github) | Network scanner for Mac that finds every device and alerts you to changes | Paid |
 | [Nimble Commander](https://macbrowse.com/utilities/nimble-commander?ref=github) | Free, open-source dual-pane file manager for Mac with full keyboard control | Free |
 | [No Notch](https://macbrowse.com/utilities/no-notch?ref=github) | Hide the MacBook notch and move the menu bar below the camera cutout | Paid |
+| [Notchy](https://macbrowse.com/utilities/notchy?ref=github) | Dynamic Island for Mac | Paid |
 | [NoteRescue 2](https://macbrowse.com/utilities/noterescue-2?ref=github) | Find what is missing from Notes, Contacts, Safari and more | Freemium |
 | [OmniWM](https://macbrowse.com/utilities/omniwm?ref=github) | Free, open-source tiling window manager for macOS with scrolling columns | Free |
 | [OpenLogi](https://macbrowse.com/utilities/openlogi?ref=github) | Free Logitech Options+ alternative for Mac with no account or telemetry | Free |
+| [Peekaboo](https://macbrowse.com/utilities/peekaboo?ref=github) | Finder alternative for Mac — find anything in plain English | Paid |
 | [PingStatus: WiFi & ISP Monitor](https://macbrowse.com/utilities/pingstatus-wifi-isp-monitor?ref=github) | Menu bar ping monitor that shows whether Wi-Fi, router or ISP is at fault | Free |
 | [Radar - Metrics with Alerts](https://macbrowse.com/utilities/radar-metrics-with-alerts?ref=github) | Metrics dashboard for Mac with threshold alerts and history charts | Free |
 | [RAVIN Level 3 Weather Radar](https://macbrowse.com/utilities/ravin-level-3-weather-radar?ref=github) | NEXRAD Doppler weather radar for Mac, built for serious storm analysis | Free |
