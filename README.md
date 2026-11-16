@@ -4,7 +4,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 **[Submit your app](https://macbrowse.com/submit?ref=github)** · [Browse all apps](https://macbrowse.com/browse?ref=github) · [Weekly newsletter](https://macbrowse.com/newsletter?ref=github)
 
-506 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
+513 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
 
 **Categories:** [Business](#business) · [Developer Tools](#developer-tools) · [Education](#education) · [Entertainment](#entertainment) · [Finance](#finance) · [Games](#games) · [Graphics & Design](#graphics--design) · [Health & Fitness](#health--fitness) · [Lifestyle](#lifestyle) · [Medical](#medical) · [Music](#music) · [News](#news) · [Photo & Video](#photo--video) · [Productivity](#productivity) · [Reference](#reference) · [Social Networking](#social-networking) · [Utilities](#utilities)
 
@@ -14,6 +14,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | --- | --- | --- |
 | [NewsNinja - RSS & News Reader](https://macbrowse.com/news/newsninja-rss-news-reader?ref=github) | NewsNinja is a privacy-focused news reader for Apple platforms. | Freemium |
 | [Rollcage](https://macbrowse.com/developer-tools/rollcage?ref=github) | A menu-bar seatbelt for AI coding agents: snapshots, undo and guardrails | Paid |
+| [Storewatch](https://macbrowse.com/productivity/storewatch?ref=github) | Every app and every App Store Connect account in one Mac dashboard | Paid |
 
 ## Business
 
@@ -410,9 +411,11 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [FileOS: a Finder alternative for Mac](https://macbrowse.com/productivity/fileos-a-finder-alternative-for-mac?ref=github) | A Finder alternative for Mac: sort Downloads in one click, free up space with Undo, keep e | Paid |
 | [Finderlock](https://macbrowse.com/productivity/finderlock?ref=github) | Protect files and folders on macOS with Touch ID and AES-256. | Paid |
 | [FitterSnap: Window Manager](https://macbrowse.com/productivity/fittersnap-window-manager?ref=github) | Drag-to-snap window manager for Mac with a live preview and no permissions | Freemium |
+| [Flapdot](https://macbrowse.com/productivity/flapdot?ref=github) | Dot-matrix widgets for your Mac desktop. | Paid |
 | [Flickbar](https://macbrowse.com/productivity/flickbar?ref=github) | Snap, resize and move macOS windows with trackpad gestures on their title bars. | Free |
 | [FluidVoice](https://macbrowse.com/productivity/fluidvoice?ref=github) | Offline voice-to-text dictation for Mac with optional AI cleanup | Free |
 | [Focus Firewall](https://macbrowse.com/productivity/focus-firewall?ref=github) | Website and app blocker for Mac that runs on your work schedule | Free |
+| [FocusDrop](https://macbrowse.com/productivity/focusdrop?ref=github) | Your next task and a focus timer, in your Mac's notch | Freemium |
 | [Focused Work: Focus Timer](https://macbrowse.com/productivity/focused-work-focus-timer?ref=github) | A flexible focus timer and Pomodoro app for getting through busy days | Paid |
 | [FSNotes](https://macbrowse.com/productivity/fsnotes?ref=github) | Open-source Markdown notes app for Mac that keeps every note as a plain file | Free |
 | [Granola](https://macbrowse.com/productivity/granola?ref=github) | AI meeting notepad for Mac that takes notes without a bot joining your calls | Free |
@@ -454,14 +457,17 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Portlivo](https://macbrowse.com/productivity/portlivo?ref=github) | See every local dev server and port on your Mac. | Paid |
 | [Prodoozie](https://macbrowse.com/productivity/prodoozie?ref=github) | A video production assistant | Paid |
 | [Rabbit Link](https://macbrowse.com/productivity/rabbit-link?ref=github) | Rabbit brings your Android phone to your Mac, so it can stay in your pocket. | Paid |
+| [ReplayFlow](https://macbrowse.com/productivity/replayflow?ref=github) | Click highlights, keystroke overlays, and smart zoom — for product demos, design reviews, | Paid |
 | [RewriteBar](https://macbrowse.com/productivity/rewritebar?ref=github) | RewriteBar is the leading macOS AI writing assistant. | Paid |
 | [Ribbon](https://macbrowse.com/productivity/ribbon?ref=github) | A scrolling window manager for Mac. | Paid |
 | [Ruban](https://macbrowse.com/productivity/ruban?ref=github) | Your Mac, on a strip. | Paid |
 | [Savvyshot](https://macbrowse.com/productivity/savvyshot?ref=github) | Say goodbye to boring screenshots! | Freemium |
 | [Scrawl](https://macbrowse.com/productivity/scrawl?ref=github) | Handwrite on your Mac's trackpad. No tablet, no stylus. | Free |
 | [Screenshot Bro](https://macbrowse.com/productivity/screenshot-bro?ref=github) | Native App Store and Google Play screenshot tool for Mac, iPad, and iPhone. | Paid |
+| [Scribbble](https://macbrowse.com/productivity/scribbble?ref=github) | Draw, highlight and annotate anywhere on your Mac screen | Freemium |
 | [Seek](https://macbrowse.com/productivity/seek?ref=github) | Describe any file and Seek finds it, even a photo by what's in it. | Paid |
 | [Shedi](https://macbrowse.com/productivity/shedi?ref=github) | Finds the space your Mac is wasting, explains every item, and removes only what you choose | Paid |
+| [Shotnamer](https://macbrowse.com/productivity/shotnamer?ref=github) | Renames new screenshots by what's in them, on your Mac | Freemium |
 | [SideNotes](https://macbrowse.com/productivity/sidenotes?ref=github) | Markdown note-taking app for Mac that slides in from the edge of your screen | Paid |
 | [Slap Alert](https://macbrowse.com/productivity/slap-alert?ref=github) | A pixel-art monkey in your Mac menu bar that slaps a sticky note when you make a sale. | Freemium |
 | [Snipora](https://macbrowse.com/productivity/snipora?ref=github) | Type ;addr and get your address in any Mac app. | Paid |
@@ -565,6 +571,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [KeePassXC](https://macbrowse.com/utilities/keepassxc?ref=github) | A free password manager for Mac that keeps your logins in one secure place | Free |
 | [KeepingYouAwake](https://macbrowse.com/utilities/keepingyouawake?ref=github) | Free tool to keep your Mac awake and stop it from going to sleep | Free |
 | [Keyboard Switcheroo](https://macbrowse.com/utilities/keyboard-switcheroo?ref=github) | Menu bar keyboard language switcher with flags and custom icons | Paid |
+| [Kiiwi](https://macbrowse.com/utilities/kiiwi?ref=github) | Mechanical keyboard sounds for your Mac | Paid |
 | [Kolibri: Move Windows](https://macbrowse.com/utilities/kolibri-move-windows?ref=github) | Move and resize any Mac window by holding a key and dragging anywhere | Paid |
 | [LinearMouse](https://macbrowse.com/utilities/linearmouse?ref=github) | Free mouse and trackpad customization tool for Mac scrolling and speed | Free |
 | [LuckGrib](https://macbrowse.com/utilities/luckgrib?ref=github) | GRIB viewer and weather routing app for sailors and forecasters on Mac | Free |
@@ -595,6 +602,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [PasteBot](https://macbrowse.com/utilities/pastebot?ref=github) | Clipboard manager for Mac that keeps everything you copy close at hand | Paid |
 | [Peekaboo](https://macbrowse.com/utilities/peekaboo?ref=github) | Finder alternative for Mac — find anything in plain English | Paid |
 | [PingStatus: WiFi & ISP Monitor](https://macbrowse.com/utilities/pingstatus-wifi-isp-monitor?ref=github) | Menu bar ping monitor that shows whether Wi-Fi, router or ISP is at fault | Free |
+| [Purge](https://macbrowse.com/utilities/purge?ref=github) | Free, open-source Mac cleaner that sends caches and junk to the Trash first | Free |
 | [Radar - Metrics with Alerts](https://macbrowse.com/utilities/radar-metrics-with-alerts?ref=github) | Metrics dashboard for Mac with threshold alerts and history charts | Free |
 | [RAVIN Level 3 Weather Radar](https://macbrowse.com/utilities/ravin-level-3-weather-radar?ref=github) | NEXRAD Doppler weather radar for Mac, built for serious storm analysis | Free |
 | [RustDesk](https://macbrowse.com/utilities/rustdesk?ref=github) | Free, open-source remote desktop for Mac you can run on your own server | Free |
