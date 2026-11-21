@@ -4,7 +4,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 **[Submit your app](https://macbrowse.com/submit?ref=github)** · [Browse all apps](https://macbrowse.com/browse?ref=github) · [Weekly newsletter](https://macbrowse.com/newsletter?ref=github)
 
-691 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
+696 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
 
 **Categories:** [Business](#business) · [Developer Tools](#developer-tools) · [Education](#education) · [Entertainment](#entertainment) · [Finance](#finance) · [Games](#games) · [Graphics & Design](#graphics--design) · [Health & Fitness](#health--fitness) · [Lifestyle](#lifestyle) · [Medical](#medical) · [Music](#music) · [News](#news) · [Photo & Video](#photo--video) · [Productivity](#productivity) · [Reference](#reference) · [Social Networking](#social-networking) · [Utilities](#utilities)
 
@@ -357,6 +357,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [SoundDesk](https://macbrowse.com/music/sounddesk?ref=github) | Software audio mixer for Mac that routes, processes and records any source | Paid |
 | [SoundEdit — Audio Loop Editor](https://macbrowse.com/music/soundedit-audio-loop-editor?ref=github) | Audio editor and sampler for Mac that turns any sound into a playable instrument | Freemium |
 | [SynthHost](https://macbrowse.com/music/synthhost?ref=github) | Audio Unit host for Mac that plays soft synths without opening a DAW | Paid |
+| [Tapelark](https://macbrowse.com/music/tapelark?ref=github) | Record streaming music, radio and podcasts on your Mac as tagged tracks | Freemium |
 | [Tau DJ v1m](https://macbrowse.com/music/tau-dj-v1m?ref=github) | DJ software for Mac with stems, DVS, MIDI and two or four decks | Paid |
 | [ToneCalculator](https://macbrowse.com/music/tonecalculator?ref=github) | Free BPM calculator, metronome and scale finder for musicians on Mac | Free |
 | [Trackhunter](https://macbrowse.com/music/trackhunter?ref=github) | Music discovery app for DJs that pulls new releases from six stores together | Free |
@@ -439,7 +440,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [TalkOver](https://macbrowse.com/photo-video/talkover?ref=github) | Voice-following teleprompter for Mac that scrolls as you speak | Paid |
 | [TetherCam](https://macbrowse.com/photo-video/tethercam?ref=github) | Turn your iPhone into a wired USB webcam for your Mac, free | Free |
 | [XnConvert: Image Converter](https://macbrowse.com/photo-video/xnconvert-image-converter?ref=github) | Free batch image converter for Mac with 500+ formats and bulk edits | Free |
-| [Zella](https://macbrowse.com/photo-video/zella?ref=github) | Screen and camera recorder for Mac that edits your video for you | Freemium |
+| [Zella](https://macbrowse.com/photo-video/zella?ref=github) | Screen recorder & video editor for Mac and iPhone — one-tap Auto-Polish | Freemium |
 | [ZxClip](https://macbrowse.com/photo-video/zxclip?ref=github) | Edit audio and video on your Mac by editing the transcript text | Paid |
 
 [All Photo & Video apps →](https://macbrowse.com/photo-video?ref=github)
@@ -598,6 +599,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [SupaSidebar](https://macbrowse.com/productivity/supasidebar?ref=github) | An Arc-style sidebar for every browser on your Mac, plus files and apps | Freemium |
 | [Superwhisper](https://macbrowse.com/productivity/superwhisper?ref=github) | AI voice to text for Mac that types wherever your cursor is | Freemium |
 | [SwiftBiu](https://macbrowse.com/productivity/swiftbiu?ref=github) | Context action bar for Mac: translate, run AI and plugins on selected text | Paid |
+| [Szept](https://macbrowse.com/productivity/szept?ref=github) | Voice dictation for Mac that also feeds screenshots to AI coding agents | Paid |
 | [Tap Forms Database Pro](https://macbrowse.com/productivity/tap-forms-database-pro?ref=github) | Database app for Mac to build custom forms for records, inventories and collections | Freemium |
 | [Tellie](https://macbrowse.com/productivity/tellie?ref=github) | Voice-following teleprompter for Mac that lives in the MacBook notch | Freemium |
 | [texifier](https://macbrowse.com/productivity/texifier?ref=github) | LaTeX editor for Mac with live PDF preview and command autocomplete | Paid |
@@ -743,6 +745,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Mint: Disk Cleaner & Organizer](https://macbrowse.com/utilities/mint-disk-cleaner-organizer?ref=github) | Disk cleaner and file organizer for Mac that frees space and tidies folders | Freemium |
 | [MONIT](https://macbrowse.com/utilities/monit?ref=github) | Slide-out system monitor for Mac showing CPU, GPU, memory, disk and battery | Free |
 | [Moom Classic](https://macbrowse.com/utilities/moom-classic?ref=github) | Window manager for Mac that moves and resizes windows by mouse or keyboard | Paid |
+| [Mopup](https://macbrowse.com/utilities/mopup?ref=github) | Mac cleaner that explains every file before it frees up disk space | Freemium |
 | [Mos](https://macbrowse.com/utilities/mos?ref=github) | Smooth mouse scrolling for Mac with separate scroll directions per axis | Free |
 | [Motrix](https://macbrowse.com/utilities/motrix?ref=github) | Free download manager for Mac handling HTTP, FTP, torrents and magnet links | Free |
 | [MouseUp](https://macbrowse.com/utilities/mouseup?ref=github) | Fix double-clicks and get smooth scrolling for any external mouse on Mac | Paid |
@@ -778,6 +781,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [shPersian Subtitle Fixer](https://macbrowse.com/utilities/shpersian-subtitle-fixer?ref=github) | Fix garbled Persian and Arabic SRT subtitles on Mac by converting to UTF-8 | Free |
 | [Snapix](https://macbrowse.com/utilities/snapix?ref=github) | Menu bar screenshot app for Mac with annotation, blur, OCR and recording | Paid |
 | [SnapScene: Window Layout](https://macbrowse.com/utilities/snapscene-window-layout?ref=github) | Save window layouts on your Mac and bring them back in one click | Free |
+| [SnapState](https://macbrowse.com/utilities/snapstate?ref=github) | Save and restore your Mac window layouts, apps and browser tabs in one click | Paid |
 | [Snapzy](https://macbrowse.com/utilities/snapzy?ref=github) | Free, open-source screenshot and screen recording app for Mac | Free |
 | [SnowWall](https://macbrowse.com/utilities/snowwall?ref=github) | Animated snow and rain falling across your Mac desktop, from the menu bar | Freemium |
 | [Someone Was Here](https://macbrowse.com/utilities/someone-was-here?ref=github) | Intruder photo app for Mac that shows who used your computer while you were away | Freemium |
@@ -789,6 +793,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [StorageRadar: Disk Space](https://macbrowse.com/utilities/storageradar-disk-space?ref=github) | Disk space analyzer for Mac that shows every path and risk before cleanup | Freemium |
 | [Strongbox](https://macbrowse.com/utilities/strongbox?ref=github) | Open source KeePass password manager for Mac and iPhone | Free |
 | [SubtitlePlayer - SRT, ASS](https://macbrowse.com/utilities/subtitleplayer-srt-ass?ref=github) | Show SRT and ASS subtitles over any streaming video on your Mac | Paid |
+| [SupaDupa](https://macbrowse.com/utilities/supadupa?ref=github) | Find duplicate files and tidy messy folders and old drives on your Mac | Freemium |
 | [Swads](https://macbrowse.com/utilities/swads?ref=github) | Native Synology Download Station client for Mac and iPhone | Paid |
 | [Swish Notch](https://macbrowse.com/utilities/swish-notch?ref=github) | A MacBook notch app that turns sharing files into a basketball shot | Paid |
 | [Sxitch](https://macbrowse.com/utilities/sxitch?ref=github) | Command Tab replacement that switches Mac apps by typing their name | Freemium |
