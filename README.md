@@ -4,7 +4,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 **[Submit your app](https://macbrowse.com/submit?ref=github)** · [Browse all apps](https://macbrowse.com/browse?ref=github) · [Weekly newsletter](https://macbrowse.com/newsletter?ref=github)
 
-696 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
+714 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
 
 **Categories:** [Business](#business) · [Developer Tools](#developer-tools) · [Education](#education) · [Entertainment](#entertainment) · [Finance](#finance) · [Games](#games) · [Graphics & Design](#graphics--design) · [Health & Fitness](#health--fitness) · [Lifestyle](#lifestyle) · [Medical](#medical) · [Music](#music) · [News](#news) · [Photo & Video](#photo--video) · [Productivity](#productivity) · [Reference](#reference) · [Social Networking](#social-networking) · [Utilities](#utilities)
 
@@ -31,6 +31,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Email Signature Creator](https://macbrowse.com/business/email-signature-creator?ref=github) | Email signature generator for Mac that works with Gmail, Outlook and Mail | Paid |
 | [GearDex](https://macbrowse.com/business/geardex?ref=github) | Camera gear inventory for shooters who pack, lend and insure kit | Freemium |
 | [Invoicer - Simply Invoices](https://macbrowse.com/business/invoicer-simply-invoices?ref=github) | Free invoice app for Mac that helps freelancers bill clients and track quotes | Free |
+| [Jamie](https://macbrowse.com/business/jamie?ref=github) | AI meeting notes for Mac that work without a bot joining your calls | Freemium |
 | [Klipnok](https://macbrowse.com/business/klipnok?ref=github) | Freelance business app for Mac: leads, time tracking, invoices and payments | Paid |
 | [Klokki Slim - Time Tracking](https://macbrowse.com/business/klokki-slim-time-tracking?ref=github) | Menu bar time tracker for Mac with billable hours and reports | Free |
 | [LeaseRail](https://macbrowse.com/business/leaserail?ref=github) | Turn a folder of tenancy contracts into clean data. | Freemium |
@@ -77,6 +78,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Dash](https://macbrowse.com/developer-tools/dash?ref=github) | Offline API documentation browser and code snippet manager for Mac | Free |
 | [DB Browser for SQLite](https://macbrowse.com/developer-tools/db-browser-for-sqlite?ref=github) | Free SQLite database browser for Mac to open and explore your data | Free |
 | [DB Pro](https://macbrowse.com/developer-tools/db-pro?ref=github) | Database client for Mac covering Postgres, MySQL, SQLite, MongoDB and more | Freemium |
+| [DbVisualizer](https://macbrowse.com/developer-tools/dbvisualizer?ref=github) | Universal SQL client and database tool for Mac, from Postgres to Snowflake | Freemium |
 | [Eclipse Temurin Java Development Kit](https://macbrowse.com/developer-tools/eclipse-temurin-java-development-kit?ref=github) | Free OpenJDK build for Mac to run and develop Java applications | Free |
 | [FlareBar](https://macbrowse.com/developer-tools/flarebar?ref=github) | Menu bar launcher for Cloudflare dashboards, Workers, R2, D1 and more | Freemium |
 | [Gitfox](https://macbrowse.com/developer-tools/gitfox?ref=github) | Native Git client for Mac with clear diffs, line staging and rebase | Free |
@@ -112,8 +114,10 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Proxyman](https://macbrowse.com/developer-tools/proxyman?ref=github) | HTTP debugging proxy for Mac to capture, inspect and mock web traffic | Free |
 | [pullBar: PR Counter for GitHub](https://macbrowse.com/developer-tools/pullbar-pr-counter-for-github?ref=github) | GitHub pull request counter in your Mac menu bar, with review alerts | Free |
 | [RabbitGUI](https://macbrowse.com/developer-tools/rabbitgui?ref=github) | RabbitMQ GUI client for Mac to inspect queues, replay dead letters and trace routing | Paid |
+| [RapidWeaver Elements](https://macbrowse.com/developer-tools/rapidweaver-elements?ref=github) | No-code website builder for Mac that publishes to your own hosting | Paid |
 | [RocketSim for Xcode Simulator](https://macbrowse.com/developer-tools/rocketsim-for-xcode-simulator?ref=github) | Xcode Simulator toolkit for iOS developers and AI coding agents | Free |
 | [Rollcage](https://macbrowse.com/developer-tools/rollcage?ref=github) | A menu-bar seatbelt for AI coding agents: snapshots, undo and guardrails | Paid |
+| [RunJS](https://macbrowse.com/developer-tools/runjs?ref=github) | JavaScript playground for Mac that shows results live as you type | Freemium |
 | [Runlet](https://macbrowse.com/developer-tools/runlet?ref=github) | Native API client for Mac with git-friendly YAML collections and no account | Subscription |
 | [SeaSalt](https://macbrowse.com/developer-tools/seasalt?ref=github) | Run persistent AI coding agents on your Mac, one per project | Freemium |
 | [ServerBuddy](https://macbrowse.com/developer-tools/serverbuddy?ref=github) | Manage Linux servers over SSH from a native Mac app, no agent required | Freemium |
@@ -123,6 +127,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [SnippetsLab](https://macbrowse.com/developer-tools/snippetslab?ref=github) | Code snippet manager for Mac with Markdown notes and iCloud sync | Free |
 | [SpaceWise](https://macbrowse.com/developer-tools/spacewise?ref=github) | Disk cleaner for Mac developers: node\_modules, Docker, Xcode and AI model caches | Freemium |
 | [SubEthaEdit](https://macbrowse.com/developer-tools/subethaedit?ref=github) | Free collaborative text and code editor for Mac, open source and native | Free |
+| [Sublime Text](https://macbrowse.com/developer-tools/sublime-text?ref=github) | Fast, GPU-rendered code editor for Mac with multiple selections and plugins | Paid |
 | [TablePro](https://macbrowse.com/developer-tools/tablepro?ref=github) | Open-source database client for Mac covering SQL and NoSQL alike | Freemium |
 | [Taska for GitHub/GitLab Issues](https://macbrowse.com/developer-tools/taska-for-github-gitlab-issues?ref=github) | Native GitHub and GitLab issue tracker for Mac, faster than the web UI | Freemium |
 | [TCP Viewer](https://macbrowse.com/developer-tools/tcp-viewer?ref=github) | Native packet viewer for Mac that captures TCP and UDP traffic and opens PCAPs | Freemium |
@@ -189,6 +194,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 | App | What it does | Price |
 | --- | --- | --- |
+| [Chronicle](https://macbrowse.com/finance/chronicle?ref=github) | Bill organizer and reminder app for tracking due dates and subscriptions | Freemium |
 | [MoneyWiz](https://macbrowse.com/finance/moneywiz?ref=github) | Personal finance and budgeting app for Mac, iPhone, iPad and Watch | Subscription |
 | [Pulse Local](https://macbrowse.com/finance/pulse-local?ref=github) | Private budgeting app for Mac with on-device AI and bank file import | Freemium |
 | [Righto Books](https://macbrowse.com/finance/righto-books?ref=github) | Free accounting for Mac. Books stay on your computer. | Free |
@@ -233,6 +239,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Comfy Desktop](https://macbrowse.com/graphics-design/comfy-desktop?ref=github) | Node-based AI image, video and audio generator for Mac creators | Free |
 | [Dabbit](https://macbrowse.com/graphics-design/dabbit?ref=github) | Dabbit is a pixel-exact, color-managed color picker for macOS. | Paid |
 | [Draw Things](https://macbrowse.com/graphics-design/draw-things?ref=github) | Run Stable Diffusion locally on your Mac and generate AI images for free | Free |
+| [FontBase](https://macbrowse.com/graphics-design/fontbase?ref=github) | Free font manager for Mac to preview, organize and activate type | Freemium |
 | [Image2icon](https://macbrowse.com/graphics-design/image2icon?ref=github) | Free icon maker for Mac that turns your pictures into custom icons | Free |
 | [ImageForge: Image Compressor](https://macbrowse.com/graphics-design/imageforge-image-compressor?ref=github) | Lossless image compressor for Mac that shrinks JPEG, PNG, WebP and SVG files | Freemium |
 | [Inkscape](https://macbrowse.com/graphics-design/inkscape?ref=github) | Free vector graphics editor for Mac, Windows and Linux | Free |
@@ -328,6 +335,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [AudioRouterNow](https://macbrowse.com/music/audiorouternow?ref=github) | Play Mac audio through several output devices at once from the menu bar | Free |
 | [Bass Plus](https://macbrowse.com/music/bass-plus?ref=github) | Bass booster and system-wide equalizer for Mac with menu bar controls | Paid |
 | [Boom Recorder Pro](https://macbrowse.com/music/boom-recorder-pro?ref=github) | Multitrack field recorder for Mac built for film, TV and live sound crews | Paid |
+| [Capo](https://macbrowse.com/music/capo?ref=github) | Learn songs by ear on your Mac with chord detection and slow-down playback | Freemium |
 | [DigCrate: DJ Set Planner](https://macbrowse.com/music/digcrate-dj-set-planner?ref=github) | DJ set planner for Mac that builds harmonic sets from your own library | Freemium |
 | [Drum Beats+ (Rhythm Metronome, Loops & Grooves Machine)](https://macbrowse.com/music/drum-beats-rhythm-metronome-loops-grooves-machine?ref=github) | Drum beat metronome for Mac with 250+ real grooves to practice and jam over | Paid |
 | [Fader - System Audio Mixer](https://macbrowse.com/music/fader-system-audio-mixer?ref=github) | Per-app volume mixer for Mac you can run entirely from the keyboard | Freemium |
@@ -405,6 +413,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Claquette - GIF & Video Tool](https://macbrowse.com/photo-video/claquette-gif-video-tool?ref=github) | Screen recorder and GIF maker for Mac with quick trimming and conversion | Free |
 | [Darkroom](https://macbrowse.com/photo-video/darkroom?ref=github) | Photo and video editor for Mac that works right inside Apple Photos | Freemium |
 | [Dualgram Screen Recorder](https://macbrowse.com/photo-video/dualgram-screen-recorder?ref=github) | Screen recorder for Mac with a floating webcam overlay and teleprompter | Free |
+| [Enlyo](https://macbrowse.com/photo-video/enlyo?ref=github) | Video analysis software for coaches and clubs | Freemium |
 | [FFmix - Video Compressor](https://macbrowse.com/photo-video/ffmix-video-compressor?ref=github) | Local video compressor and converter for Mac, powered by ffmpeg | Free |
 | [FirstPass: RAW Ingest & Cull](https://macbrowse.com/photo-video/firstpass-raw-ingest-cull?ref=github) | Photo ingest and culling app for Mac with verified RAW card copies | Paid |
 | [Folderproof](https://macbrowse.com/photo-video/folderproof?ref=github) | Client proofing galleries for Lightroom exports, with local AI on your Mac | Subscription |
@@ -480,6 +489,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Drafts](https://macbrowse.com/productivity/drafts?ref=github) | Quick-capture notes app for Mac that sends your text wherever it needs to go | Freemium |
 | [DroidDock](https://macbrowse.com/productivity/droiddock?ref=github) | Connect your Android phone to your Mac for clipboard, notifications, files and messages | Free |
 | [Dropscribe — Voice Memos](https://macbrowse.com/productivity/dropscribe-voice-memos?ref=github) | Private, on-device audio and video transcription for Mac with speaker labels | Free |
+| [Duet](https://macbrowse.com/productivity/duet?ref=github) | Turn your iPad, iPhone or Android tablet into a second display for Mac | Freemium |
 | [EdgeBar](https://macbrowse.com/productivity/edgebar?ref=github) | EdgeBar turns your MacBook trackpad edges into smooth volume and brightness controls. | Paid |
 | [Edist](https://macbrowse.com/productivity/edist?ref=github) | Native Typst editor for Mac with instant live preview and smart completion | Paid |
 | [EnviousWispr](https://macbrowse.com/productivity/enviouswispr?ref=github) | Free, private AI dictation for Mac that types polished text into any app | Free |
@@ -496,6 +506,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Flit](https://macbrowse.com/productivity/flit?ref=github) | Private, offline dictation for Mac that types clean text in any app | Paid |
 | [Fluent](https://macbrowse.com/productivity/fluent?ref=github) | AI assistant for Mac that works inside every app with one shortcut | Paid |
 | [FluidVoice](https://macbrowse.com/productivity/fluidvoice?ref=github) | Offline voice-to-text dictation for Mac with optional AI cleanup | Free |
+| [Focus](https://macbrowse.com/productivity/focus?ref=github) | Block distracting websites and apps on your Mac, with Pomodoro timers | Paid |
 | [Focus Firewall](https://macbrowse.com/productivity/focus-firewall?ref=github) | Website and app blocker for Mac that runs on your work schedule | Free |
 | [FocusDrop](https://macbrowse.com/productivity/focusdrop?ref=github) | Your next task and a focus timer, in your Mac's notch | Freemium |
 | [Focused Work: Focus Timer](https://macbrowse.com/productivity/focused-work-focus-timer?ref=github) | A flexible focus timer and Pomodoro app for getting through busy days | Paid |
@@ -538,6 +549,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Notel](https://macbrowse.com/productivity/notel?ref=github) | Sticky notes for your Mac desktop with themes, checklists and live math | Paid |
 | [Noteline](https://macbrowse.com/productivity/noteline?ref=github) | Markdown editor for Mac with inline live preview and plain .md files | Paid |
 | [NotePlan 3](https://macbrowse.com/productivity/noteplan-3?ref=github) | Markdown notes, tasks and calendar planning in one Mac app | Paid |
+| [Noteshelf](https://macbrowse.com/productivity/noteshelf?ref=github) | Handwritten notes, PDF markup and digital planners for Mac, iPad and iPhone | Freemium |
 | [Noticky](https://macbrowse.com/productivity/noticky?ref=github) | Sticky notes for Mac that float on top, even over fullscreen apps | Paid |
 | [Notomo](https://macbrowse.com/productivity/notomo?ref=github) | Markdown shortcuts, slash commands and AI tools for Apple Notes on Mac | Paid |
 | [Nova](https://macbrowse.com/productivity/nova?ref=github) | Voice and keyboard AI assistant for your Mac calendar, mail and reminders | Subscription |
@@ -597,6 +609,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Storewatch](https://macbrowse.com/productivity/storewatch?ref=github) | Every app and every App Store Connect account in one Mac dashboard | Paid |
 | [Storyist](https://macbrowse.com/productivity/storyist?ref=github) | Novel and screenplay writing app for Mac with outlines and ebook export | Paid |
 | [SupaSidebar](https://macbrowse.com/productivity/supasidebar?ref=github) | An Arc-style sidebar for every browser on your Mac, plus files and apps | Freemium |
+| [Superlist](https://macbrowse.com/productivity/superlist?ref=github) | To-do list and notes app for Mac with shared lists and AI meeting notes | Freemium |
 | [Superwhisper](https://macbrowse.com/productivity/superwhisper?ref=github) | AI voice to text for Mac that types wherever your cursor is | Freemium |
 | [SwiftBiu](https://macbrowse.com/productivity/swiftbiu?ref=github) | Context action bar for Mac: translate, run AI and plugins on selected text | Paid |
 | [Szept](https://macbrowse.com/productivity/szept?ref=github) | Voice dictation for Mac that also feeds screenshots to AI coding agents | Paid |
@@ -613,12 +626,14 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Unfriction](https://macbrowse.com/productivity/unfriction?ref=github) | Quick-capture notes app for Mac with a floating overlay and screenshot OCR | Freemium |
 | [Unite Pro](https://macbrowse.com/productivity/unite-pro?ref=github) | Turn any website into a standalone Mac app with its own Dock icon | Paid |
 | [Verso](https://macbrowse.com/productivity/verso?ref=github) | Lightweight word processor for Mac that edits Word .docx files in place | Paid |
+| [Vimcal](https://macbrowse.com/productivity/vimcal?ref=github) | Fast calendar app for Mac that unifies Google and Outlook for busy schedulers | Subscription |
 | [Virtual Display Pro](https://macbrowse.com/productivity/virtual-display-pro?ref=github) | Add up to four virtual monitors to your Mac for cleaner screen sharing | Paid |
 | [Vivaldi](https://macbrowse.com/productivity/vivaldi?ref=github) | Free web browser for Mac with built-in email and deep customization | Free |
 | [Vocena](https://macbrowse.com/productivity/vocena?ref=github) | Live captions and translation for any sound on your Mac | Freemium |
 | [VoxAI](https://macbrowse.com/productivity/voxai?ref=github) | Local AI meeting transcription for Mac with speaker labels and a live copilot | Freemium |
 | [Voxxy](https://macbrowse.com/productivity/voxxy?ref=github) | Private voice to text for Mac: hold a key, speak, and your words appear | Paid |
 | [Wander](https://macbrowse.com/productivity/wander?ref=github) | WYSIWYG markdown editor for Mac that keeps your notes as plain .md files | Freemium |
+| [Wavebox](https://macbrowse.com/productivity/wavebox?ref=github) | Productivity browser for Mac that keeps many web apps and accounts in order | Freemium |
 | [Wavo](https://macbrowse.com/productivity/wavo?ref=github) | Local dictation: hold a hotkey, speak, and the text lands where you type | Free |
 | [WebCatalog](https://macbrowse.com/productivity/webcatalog?ref=github) | Turn any website into a desktop app on your Mac, with separate accounts | Freemium |
 | [Whisper Mate](https://macbrowse.com/productivity/whisper-mate?ref=github) | Transcribe audio and video to text on your Mac with local Whisper AI | Free |
@@ -658,6 +673,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 | App | What it does | Price |
 | --- | --- | --- |
+| [1Blocker](https://macbrowse.com/utilities/1blocker?ref=github) | Safari ad blocker for Mac that stops trackers, cookie notices and pop-ups | Freemium |
 | [ADS-B Radar](https://macbrowse.com/utilities/ads-b-radar?ref=github) | Live flight tracker for Mac that reads your own ADS-B receiver | Paid |
 | [afterFiles](https://macbrowse.com/utilities/afterfiles?ref=github) | Menu bar app for Mac that syncs, cleans and dates your folders on autopilot | Free |
 | [AirSpace:Manage Desktop Spaces](https://macbrowse.com/utilities/airspace-manage-desktop-spaces?ref=github) | Name, color and jump between macOS desktop spaces from your menu bar | Paid |
@@ -741,6 +757,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Manico](https://macbrowse.com/utilities/manico?ref=github) | Keyboard app launcher and switcher for Mac using Option plus a number | Free |
 | [MenuBar Stats](https://macbrowse.com/utilities/menubar-stats?ref=github) | System monitor for your Mac menu bar: CPU, memory, network, disk and more | Paid |
 | [MenubarX - Floating Browser](https://macbrowse.com/utilities/menubarx-floating-browser?ref=github) | Menu bar browser for Mac that pins any website or web app one click away | Free |
+| [Mic Drop](https://macbrowse.com/utilities/mic-drop?ref=github) | Mute your microphone from the Mac menu bar or a global hotkey | Freemium |
 | [Minimal Paste](https://macbrowse.com/utilities/minimal-paste?ref=github) | Private clipboard history for Mac, $9.99 once | Paid |
 | [Mint: Disk Cleaner & Organizer](https://macbrowse.com/utilities/mint-disk-cleaner-organizer?ref=github) | Disk cleaner and file organizer for Mac that frees space and tidies folders | Freemium |
 | [MONIT](https://macbrowse.com/utilities/monit?ref=github) | Slide-out system monitor for Mac showing CPU, GPU, memory, disk and battery | Free |
@@ -759,6 +776,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [OpenLogi](https://macbrowse.com/utilities/openlogi?ref=github) | Free Logitech Options+ alternative for Mac with no account or telemetry | Free |
 | [Padrail](https://macbrowse.com/utilities/padrail?ref=github) | Slide an edge of your MacBook trackpad for volume, brightness or keyboard light. | Paid |
 | [PasteBot](https://macbrowse.com/utilities/pastebot?ref=github) | Clipboard manager for Mac that keeps everything you copy close at hand | Paid |
+| [Path Finder](https://macbrowse.com/utilities/path-finder?ref=github) | File manager for Mac with dual panes, batch rename and folder sync | Paid |
 | [PeakHour](https://macbrowse.com/utilities/peakhour?ref=github) | Network and bandwidth monitor for Mac with live speeds in the menu bar | Freemium |
 | [Peekaboo](https://macbrowse.com/utilities/peekaboo?ref=github) | Finder alternative for Mac — find anything in plain English | Paid |
 | [PingStatus: WiFi & ISP Monitor](https://macbrowse.com/utilities/pingstatus-wifi-isp-monitor?ref=github) | Menu bar ping monitor that shows whether Wi-Fi, router or ISP is at fault | Freemium |
