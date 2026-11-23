@@ -4,7 +4,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 **[Submit your app](https://macbrowse.com/submit?ref=github)** · [Browse all apps](https://macbrowse.com/browse?ref=github) · [Weekly newsletter](https://macbrowse.com/newsletter?ref=github)
 
-714 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
+715 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
 
 **Categories:** [Business](#business) · [Developer Tools](#developer-tools) · [Education](#education) · [Entertainment](#entertainment) · [Finance](#finance) · [Games](#games) · [Graphics & Design](#graphics--design) · [Health & Fitness](#health--fitness) · [Lifestyle](#lifestyle) · [Medical](#medical) · [Music](#music) · [News](#news) · [Photo & Video](#photo--video) · [Productivity](#productivity) · [Reference](#reference) · [Social Networking](#social-networking) · [Utilities](#utilities)
 
@@ -17,6 +17,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [NewsNinja - RSS & News Reader](https://macbrowse.com/news/newsninja-rss-news-reader?ref=github) | RSS and news reader for Mac with a Today dashboard and AI summaries | Freemium |
 | [Rollcage](https://macbrowse.com/developer-tools/rollcage?ref=github) | A menu-bar seatbelt for AI coding agents: snapshots, undo and guardrails | Paid |
 | [Storewatch](https://macbrowse.com/productivity/storewatch?ref=github) | Every app and every App Store Connect account in one Mac dashboard | Paid |
+| [Viewdown](https://macbrowse.com/developer-tools/viewdown?ref=github) | Markdown viewer for Mac that live-renders files as you save them | Paid |
 
 ## Business
 
@@ -753,6 +754,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [MacPacker](https://macbrowse.com/utilities/macpacker?ref=github) | Free, open-source archive manager for Mac that lets you browse before extracting | Free |
 | [Macs Fan Control](https://macbrowse.com/utilities/macs-fan-control?ref=github) | Fan control and temperature monitoring for Mac, built for quiet and cool | Free |
 | [macUSB](https://macbrowse.com/utilities/macusb?ref=github) | Free bootable USB installer maker for Mac with a guided, step-by-step flow | Free |
+| [MacZentra](https://macbrowse.com/utilities/maczentra?ref=github) | All-in-one Mac storage solution: scan 256 GB in ~15 sec, Trash first | Paid |
 | [MagicGlance](https://macbrowse.com/utilities/magicglance?ref=github) | Magic Keyboard, Mouse and Trackpad battery levels in your Mac menu bar | Paid |
 | [Manico](https://macbrowse.com/utilities/manico?ref=github) | Keyboard app launcher and switcher for Mac using Option plus a number | Free |
 | [MenuBar Stats](https://macbrowse.com/utilities/menubar-stats?ref=github) | System monitor for your Mac menu bar: CPU, memory, network, disk and more | Paid |
