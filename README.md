@@ -4,7 +4,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 
 **[Submit your app](https://macbrowse.com/submit?ref=github)** · [Browse all apps](https://macbrowse.com/browse?ref=github) · [Weekly newsletter](https://macbrowse.com/newsletter?ref=github)
 
-715 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
+718 apps, updated every day from [Mac Browse](https://macbrowse.com/?ref=github).
 
 **Categories:** [Business](#business) · [Developer Tools](#developer-tools) · [Education](#education) · [Entertainment](#entertainment) · [Finance](#finance) · [Games](#games) · [Graphics & Design](#graphics--design) · [Health & Fitness](#health--fitness) · [Lifestyle](#lifestyle) · [Medical](#medical) · [Music](#music) · [News](#news) · [Photo & Video](#photo--video) · [Productivity](#productivity) · [Reference](#reference) · [Social Networking](#social-networking) · [Utilities](#utilities)
 
@@ -307,6 +307,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Moon Gate: Human Design Widget](https://macbrowse.com/lifestyle/moon-gate-human-design-widget?ref=github) | Human Design Moon gate tracker that lives in your Mac menu bar | Paid |
 | [Paprika Recipe Manager v4](https://macbrowse.com/lifestyle/paprika-recipe-manager-v4?ref=github) | Recipe manager for Mac with grocery lists, meal planning and pantry tracking | Free |
 | [SGNS – A simple astrology tool](https://macbrowse.com/lifestyle/sgns-a-simple-astrology-tool?ref=github) | Free astrology app for Mac: find sun and moon signs, get an AI horoscope | Free |
+| [Tenrec](https://macbrowse.com/lifestyle/tenrec?ref=github) | Work alone, together. | Free |
 
 [All Lifestyle apps →](https://macbrowse.com/lifestyle?ref=github)
 
@@ -599,6 +600,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [SideNotes](https://macbrowse.com/productivity/sidenotes?ref=github) | Markdown note-taking app for Mac that slides in from the edge of your screen | Paid |
 | [Slap Alert](https://macbrowse.com/productivity/slap-alert?ref=github) | A pixel-art monkey in your Mac menu bar that slaps a sticky note when you make a sale. | Freemium |
 | [Smolpad](https://macbrowse.com/productivity/smolpad?ref=github) | Markdown notes app in the Mac menu bar, saved as plain .md files | Freemium |
+| [SnapMatrix](https://macbrowse.com/productivity/snapmatrix?ref=github) | Screen capture, annotation and recording for Mac and Windows — private by design. Screensh | Freemium |
 | [Snipora](https://macbrowse.com/productivity/snipora?ref=github) | Menu bar text expander for Mac with fill-in snippets and on-device suggestions | Paid |
 | [Sortio](https://macbrowse.com/productivity/sortio?ref=github) | AI file organizer for Mac that sorts folders from a plain-English prompt | Freemium |
 | [Sotto](https://macbrowse.com/productivity/sotto?ref=github) | Private voice dictation for Mac that types into any app, offline by default | Paid |
@@ -622,6 +624,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Tidzy](https://macbrowse.com/productivity/tidzy?ref=github) | A smarter Finder for your Mac: find anything by what's inside it, copy text from any image | Paid |
 | [TimeGauge](https://macbrowse.com/productivity/timegauge?ref=github) | Menu bar time tracker with Pomodoro timer and day, week and year progress | Paid |
 | [Transcriptions](https://macbrowse.com/productivity/transcriptions?ref=github) | Free, open source transcription editor for typing up audio and video by hand | Free |
+| [Tucket](https://macbrowse.com/productivity/tucket?ref=github) | A tasteful clipboard manager for Apple silicon Macs. | Paid |
 | [Typora](https://macbrowse.com/productivity/typora?ref=github) | Minimal Markdown editor for Mac with live preview as you type | Paid |
 | [Unclutter](https://macbrowse.com/productivity/unclutter?ref=github) | Menu bar shelf for clipboard history, quick notes and temporary files | Paid |
 | [Unfriction](https://macbrowse.com/productivity/unfriction?ref=github) | Quick-capture notes app for Mac with a floating overlay and screenshot OCR | Freemium |
@@ -820,7 +823,7 @@ The best apps for your Mac, hand-picked and sorted by the same categories as the
 | [Teclo](https://macbrowse.com/utilities/teclo?ref=github) | Mechanical keyboard sounds for every key on your Mac | Paid |
 | [The Unarchiver](https://macbrowse.com/utilities/the-unarchiver?ref=github) | Free RAR extractor and unzip tool that opens dozens of archive formats | Free |
 | [TinyFast](https://macbrowse.com/utilities/tinyfast?ref=github) | Compress images, videos and PDFs on your Mac without uploading them | Freemium |
-| [Toolnotch](https://macbrowse.com/utilities/toolnotch?ref=github) | MacBook notch app for Mac with clipboard history, window restore, breaks and keep-awake | Paid |
+| [Toolnotch](https://macbrowse.com/utilities/toolnotch?ref=github) | Notch app for Mac: windows, Claude and Codex, calls, dictation and clipboard | Paid |
 | [TouchDeck](https://macbrowse.com/utilities/touchdeck?ref=github) | Turn your iPhone or iPad into a Stream Deck-style control deck for Mac | Subscription |
 | [Tracer: Screenshot & Translate](https://macbrowse.com/utilities/tracer-screenshot-translate?ref=github) | Free screenshot app for Mac with OCR, translation, GIF recording and pinning | Free |
 | [Transmission](https://macbrowse.com/utilities/transmission?ref=github) | Free, open-source BitTorrent client for Mac that stays out of your way | Free |
